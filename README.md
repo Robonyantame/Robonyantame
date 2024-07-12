@@ -8,9 +8,12 @@
 
 <p align="center">
 
-<img src ='https://img.shields.io/badge/-osu!ude-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
-<img src ='https://img.shields.io/badge/-Paw Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
-
+<a href="https://osu.zhzi233.cn/">
+  <img src ='https://img.shields.io/badge/-osu!ude-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
+</a>
+<a href="https://github.com/PawTeamClub">
+  <img src ='https://img.shields.io/badge/-Paw Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
+</a>
 </p>
 
 <h2 align="center"> My GitHub Stats: </h2>
