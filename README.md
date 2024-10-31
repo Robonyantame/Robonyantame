@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/PawTeamClub">
-  <img src ='https://img.shields.io/badge/-Paw Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
+  <img src ='https://img.shields.io/badge/-Paw%20Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
 </a>
 
 <br />
