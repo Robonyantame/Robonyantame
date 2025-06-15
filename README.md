@@ -4,6 +4,12 @@
 <br><br>
 这是我的公开账号 | 啥也不会. </h4>
 
+<h2 align="center"> Contact: </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-botmolu-0d1117?style=for-the-badge&logo=discord&logoColor=41B2FF">
+</p>
+
 <h2 align="center"> Organizations: </h2>
 
 <p align="center">
