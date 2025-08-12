@@ -4,7 +4,7 @@
 <br><br>
 这是我的公开账号 | 啥也不会. 
 <br><br>
-Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a>
+Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a> | <a href=https://x.com/Sawch_Cls/status/1762057421617573962>[Source]</a>
 </h4>
 
 <h2 align="center"> Contact: </h2>
