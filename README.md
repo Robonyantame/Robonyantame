@@ -11,19 +11,25 @@ Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a> | <a href=https:/
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-botmolu-0d1117?style=for-the-badge&logo=discord&logoColor=41B2FF">
+  &emsp;
+  <img src="https://img.shields.io/badge/QQ-2674418760-0d1117?style=for-the-badge&logo=qq&logoColor=41B2FF">
+  &emsp;
+  <a href="https://x.com/robonyantame"><img src="https://img.shields.io/badge/Twitter-Robonyantame-0d1117?style=for-the-badge&logo=x&logoColor=41B2FF"></a>
 </p>
 
 <h2 align="center"> Organizations: </h2>
 
 <p align="center">
 
-<a href="https://osu.zhzi233.cn/">
-  <img src ='https://img.shields.io/badge/-osu!ude-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
-</a>
+<!-- WTF? -->
 
+<a href="https://osu.zhzi233.cn/">
+<img src ='https://img.shields.io/badge/-osu!ude-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'></a>
+&emsp;
 <a href="https://github.com/PawTeamClub">
-  <img src ='https://img.shields.io/badge/-Paw%20Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'>
-</a>
+<img src ='https://img.shields.io/badge/-Paw%20Team-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF'></a>
+
+<!-- WTF? -->
 
 <br />
 
