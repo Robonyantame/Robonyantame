@@ -1,8 +1,13 @@
 <h1 align="center" color="2DDE98"> Bottame </h1>
 
-<h4 align="center"> Hey, I am tame!
+<h3 align="center"> 沉浸过去，逃避未来. </h3>
+
+---
+
+<h4 align="center"> 
+Hey, I am tame!
 <br><br>
-这是我的公开账号 | 啥也不会. 
+这是我的公开账号 | 就一臭打游戏的 | 啥也不会. 
 <br><br>
 Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a> | <a href=https://x.com/Sawch_Cls/status/1762057421617573962>[Source]</a>
 </h4>
@@ -15,6 +20,8 @@ Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a> | <a href=https:/
   <img src="https://img.shields.io/badge/QQ-2674418760-0d1117?style=for-the-badge&logo=qq&logoColor=41B2FF">
   &emsp;
   <a href="https://x.com/robonyantame"><img src="https://img.shields.io/badge/Twitter-Robonyantame-0d1117?style=for-the-badge&logo=x&logoColor=41B2FF"></a>
+  <br><br>
+  <img src="https://img.shields.io/badge/osu!-Sakura tame-0d1117?style=for-the-badge&logo=osu&logoColor=41B2FF">
 </p>
 
 <h2 align="center"> Organizations: </h2>
