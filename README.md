@@ -1,8 +1,11 @@
 <h1 align="center" color="2DDE98"> Bottame </h1>
 
-<h4 align="center"> Hey, I am tame,
+<h4 align="center"> Hey, I am tame!
 <br><br>
-这是我的公开账号 | 啥也不会. </h4>
+这是我的公开账号 | 啥也不会. 
+<br><br>
+Avatar: twitter <a href=https://x.com/Sawch_Cls>@Sawch_Cls</a>
+</h4>
 
 <h2 align="center"> Contact: </h2>
 
